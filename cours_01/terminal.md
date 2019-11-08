@@ -1,7 +1,7 @@
-1. Introduction
+####**1. Introduction**
 Accroche-toi à tes chaussettes, car nous allons maintenant découvrir les bases du terminal ! Il s'agit d'un outil très puissant permettant de "parler" à son ordinateur. Nous allons voir : comment interagir avec le terminal, comment jouer avec ses premiers fichiers, et bien d'autres choses utiles. C'est plutôt fun, tu vas voir !
 
-1.1. Ce que tu vas apprendre dans cette ressource
+##**1.1. Ce que tu vas apprendre dans cette ressource**
 Voici la liste des questions auxquelles tu vas pouvoir répondre avec cette ressource :
 
 Qu'est-ce que le terminal ?
